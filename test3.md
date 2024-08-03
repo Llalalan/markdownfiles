@@ -1,5 +1,4 @@
 Note that
-
 $$
 \begin{aligned}
  18 &= 2 \cdot 3^2 \\
@@ -8,11 +7,6 @@ $$
  15 &= 3 \cdot 5
 \end{aligned}
 $$
-
-$$18 = 2\cdot3^2 $$
-$$180 = 2^2\cdot3^2\cdot5$$ 
-$$45 = 3^2\cdot5 $$
-$$ 15 = 3\cdot5$$
 
 Let $n = 2^a \cdot 3^b \cdot 5^c.$ It follows that:
 
