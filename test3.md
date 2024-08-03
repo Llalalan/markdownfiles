@@ -1,9 +1,20 @@
 Note that
+
 $$
+
 18 = 2 \cdot 3^2, \\
 180 = 2^2 \cdot 3^2 \cdot 5, \\
 45 = 3^2 \cdot 5, \\
 15 = 3 \cdot 5.
+$$
+
+$$
+\begin{aligned}
+ 18 = 2 \cdot 3^2 \\
+ 180 = 2^2 \cdot 3^2 \cdot 5 \\
+ 45 = 3^2 \cdot 5 \\
+ 15 = 3 \cdot 5
+\end{aligned}
 $$
 
 $$18 = 2\cdot3^2 $$
