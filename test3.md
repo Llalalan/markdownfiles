@@ -9,13 +9,15 @@ $$
 \end{aligned}
 $$
 
-Let $n = 2^a \cdot 3^b \cdot 5^c.$ It follows that:
+Let $n = 2^a \cdot 3^b \cdot 5^c$. It follows that:
 
 From the least common multiple condition, we have
+
 $$
 \operatorname{lcm}(n,18) = \operatorname{lcm}(2^a \cdot 3^b \cdot 5^c, 2 \cdot 3^2) = 2^{\max(a,1)} \cdot 3^{\max(b,2)} \cdot 5^{\max(c,0)} = 2^2 \cdot 3^2 \cdot 5,
 $$
-from which $a=2, b\in\{0,1,2\},$ and $c=1.$
+
+from which $a=2, b\in\{0,1,2\},$ and $c=1$.
 
 From the greatest common divisor condition, we have
 $$
