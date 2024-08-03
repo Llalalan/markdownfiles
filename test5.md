@@ -21,6 +21,14 @@ $$
 \end{aligned}
 $$
 
+$$
+\begin{aligned}
+ \lcm(n,18) &= \lcm(2^a \cdot 3^b \cdot 5^c, 2 \cdot 3^2) \\
+ &= 2^{\max(a,1)} \cdot 3^{\max(b,2)} \cdot 5^{\max(c,0)} \\
+ &= 2^2 \cdot 3^2 \cdot 5
+\end{aligned}
+$$
+
 from which $a=2, b\in\{0,1,2\},$ and $c=1$.
 
 From the greatest common divisor condition, we have
@@ -29,7 +37,7 @@ $$
 \begin{aligned}
  \gcd(n,45) &= \gcd(2^2 \cdot 3^b \cdot 5, 3^2 \cdot 5) \\
  &= 2^{\min(2,0)} \cdot 3^{\min(b,2)} \cdot 5^{\min(1,1)} \\
- &= 3 \cdot 5,
+ &= 3 \cdot 5
 \end{aligned}
 $$
 
