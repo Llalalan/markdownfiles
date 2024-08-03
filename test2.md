@@ -1,4 +1,4 @@
-Note that $18 = 2\cdot3^2 $, $180 = 2^2\cdot3^2\cdot5$ \\ 45 &= 3^2\cdot5 \\ 15 &= 3\cdot5. 
+Note that $$18 = 2\cdot3^2 $$, $$180 = 2^2\cdot3^2\cdot5$$ $$45 = 3^2\cdot5 $$\\ $$ 15 = 3\cdot5$$. 
 Let $n = 2^a\cdot3^b\cdot5^c.$ It follows that:
 
 From the least common multiple condition, we have\[\operatorname{lcm}(n,18) = \operatorname{lcm}(2^a\cdot3^b\cdot5^c,2\cdot3^2) = 2^{\max(a,1)}\cdot3^{\max(b,2)}\cdot5^{\max(c,0)} = 2^2\cdot3^2\cdot5,\]from which $a=2, b\in\{0,1,2\},$ and $c=1.$
