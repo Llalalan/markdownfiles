@@ -1,4 +1,5 @@
 Note that
+
 $$
 \begin{aligned}
  18 &= 2 \cdot 3^2 \\
