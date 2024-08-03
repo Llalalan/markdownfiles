@@ -15,8 +15,9 @@ Let $n = 2^a \cdot 3^b \cdot 5^c$. It follows that:
 
 $$
 \begin{aligned}
-\operatorname{lcm}(n,18) &= \operatorname{lcm}(2^a \cdot 3^b \cdot 5^c, 2 \cdot 3^2) 
-&= 2^{\max(a,1)} \cdot 3^{\max(b,2)} \cdot 5^{\max(c,0)} &= 2^2 \cdot 3^2 \cdot 5
+ \operatorname{lcm}(n,18) &= \operatorname{lcm}(2^a \cdot 3^b \cdot 5^c, 2 \cdot 3^2) \\
+ &= 2^{\max(a,1)} \cdot 3^{\max(b,2)} \cdot 5^{\max(c,0)} \\
+ &= 2^2 \cdot 3^2 \cdot 5
 \end{aligned}
 $$
 
