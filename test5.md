@@ -30,7 +30,7 @@ $$
  \gcd(n,45) &= \gcd(2^2 \cdot 3^b \cdot 5, 3^2 \cdot 5) \\
  &= 2^{\min(2,0)} \cdot 3^{\min(b,2)} \cdot 5^{\min(1,1)} \\
  &= 3 \cdot 5,
-\begin{aligned}
+\end{aligned}
 $$
 
 from which $b=1.$
